@@ -1,7 +1,7 @@
 <div id="hi--im-reed">
 </div>
 
-<h1 align="left">Reed Sutton</h1>
+<h1 align="left">REED T. SUTTON - Medical Researcher, AI/ML Engineer, Web Developer</h1>
 
 <p align='left'>
 <a href="https://reedsutton.ca"><img height="50" src="https://github.com/reedtsutton/reedtsutton/blob/main/sheep/iconfinder_wordpress_right_236865.png?raw=true"></a>&nbsp;&nbsp;
