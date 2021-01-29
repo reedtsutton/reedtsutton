@@ -1,8 +1,7 @@
 <div id="hi--im-reed">
 </div>
 
-<h1 align="left">Hi there, I'm Reed 👋</h1>
-<h3 align="left">Medical machine learning researcher (PhD student)</h3>
+<h1 align="left">Reed Sutton</h1>
 
 <p align='left'>
 <a href="https://reedsutton.ca"><img height="50" src="https://github.com/reedtsutton/reedtsutton/blob/main/sheep/iconfinder_wordpress_right_236865.png?raw=true"></a>&nbsp;&nbsp;
@@ -13,6 +12,8 @@
 
 <!-- HIDDEN
 **reedtsutton/reedtsutton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h3 align="left">Medical machine learning researcher (PhD student)</h3>
 
 ### Hi there 👋
 
