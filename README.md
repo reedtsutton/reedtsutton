@@ -1,7 +1,7 @@
 <div id="hi--im-reed">
 </div>
 
-<h1 align="left">Hi there, I'm Reed<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<h1 align="left">Hi there, I'm Reed 👋</h1>
 <h3 align="left">Medical machine learning researcher (PhD student)</h3>
 
 <p align='left'>
