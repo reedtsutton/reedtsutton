@@ -6,7 +6,7 @@
 
 <p align='left'>
 <a href="https://reedsutton.ca"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/reedtsutton/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/reedtsutton/"><img height="30" src="https://github.com/reedtsutton/reedtsutton/blob/main/sheep/iconfinder_linkedin_right_236876.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/reedus33"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.researchgate.net/profile/Reed_Sutton"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
