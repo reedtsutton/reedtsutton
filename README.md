@@ -4,7 +4,7 @@
 <h2 align="left">REED T. SUTTON - Medical Researcher, AI/ML Engineer, Web Developer</h2>
 
 <p align='left'>
-<a href="https://reedsutton.ca"><img height="50" src="https://github.com/reedtsutton/reedtsutton/blob/main/sheep/iconfinder_wordpress_right_236865.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://reedsutton.ca"><img height="100" src="https://github.com/reedtsutton/reedtsutton/blob/main/sheep/iconfinder_wordpress_right_236865.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/reedtsutton/"><img height="50" src="https://github.com/reedtsutton/reedtsutton/blob/main/sheep/iconfinder_linkedin_right_236876.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/reedus33"><img height="50" src="https://github.com/reedtsutton/reedtsutton/blob/main/sheep/iconfinder_twitter_right_236868.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.researchgate.net/profile/Reed_Sutton"><img height="50" src="https://github.com/reedtsutton/reedtsutton/blob/main/sheep/iconfinder_researchgate_right_custom.png?raw=true"></a>&nbsp;&nbsp;
